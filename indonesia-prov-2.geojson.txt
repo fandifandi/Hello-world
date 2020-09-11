@@ -39316,7 +39316,7 @@
       "id": 92,
       "properties": {
         "ID": 23,
-        "kode": 92,
+        "kode": 94,
         "Propinsi": "PAPUA BARAT",
         "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
       }
